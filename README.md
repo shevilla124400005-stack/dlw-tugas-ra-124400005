@@ -8,12 +8,12 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
+| Ketua | [Shevilla Octaria Fitri] | [124400005] |
 | Anggota | [Nama Lengkap] | [NIM] |
 | Anggota | [Nama Lengkap] | [NIM] |
 
-- **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
+- **Kelas:** [RA]
+- **Lokasi kelompok:** [5] — [Bandara Linate] (digit terakhir NIM terkecil)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
